@@ -1,3 +1,6 @@
+This is backup repository from https://github.com/nmmf/base64image
+
+
 Base64Image Plugin for CKEditor 4
 =================================
 
